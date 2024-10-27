@@ -7,7 +7,7 @@ Ich mag programmieren, aber bis jetzt kann ich nur Frontend programmieren.
 <!--**Ludoo0/Ludoo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ... -->
-- 👯 I’m looking to collaborate on @CrayonGamerHD-Philipp
+- 👯 I’m looking forword to learn developing Discord Bots in Python
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about my projects
 - 📫 How to reach me: Dont do
