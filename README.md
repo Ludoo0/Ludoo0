@@ -1,4 +1,4 @@
-I am a developer from Bremen in Germany. 
+I am a developer from Germany. 
 I like Development, but right now I can only develop Frontend pages.
 -------------------------------------------------------------------------------------------
 Ich bin ein Programmierer aus Bremen in Deutschland.
