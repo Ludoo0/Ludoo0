@@ -14,3 +14,6 @@ Ich mag programmieren, aber bis jetzt kann ich nur Frontend programmieren.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am coding for like 4 or 5 years
 
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+
