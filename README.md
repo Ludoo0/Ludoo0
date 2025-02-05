@@ -12,5 +12,5 @@ Ich mag programmieren, aber bis jetzt kann ich nur Frontend programmieren.
 - 💬 Ask me about my projects
 - 📫 How to reach me: Dont do
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am coding since like 4 or 5 years
+- ⚡ Fun fact: I am coding for like 4 or 5 years
 
