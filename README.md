@@ -1,7 +1,7 @@
 # 💫 About Me:
 Tech enthusiast from Germany.<br>I like development and love learning more things.
 
-<br><br><br>- 👯 I’m looking forward to get into devops.<br><br>- 💬 Ask me about any of my projects!<br>- 📫 Reach me via Discord (.pfote)<br>- 😄 Pronouns: he/him<br>-
+<br><br><br>- 👯 I’m looking forward to get into devops.<br><br>- 💬 Ask me about any of my projects!<br>- 📫 Reach me via Discord (.pfote)<br> 😄 Pronouns: he/him<br>-
 
 
 ## 🌐 Socials:
